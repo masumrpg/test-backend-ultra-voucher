@@ -1,5 +1,10 @@
 # Test Backend Ultra Voucher
 
+## Bio
+- Name: Ma'sum
+- Email: mclasix@gmail.com
+- Portofolio: [masumdev.com](https://masumdev.com)
+
 ## 🧩 Logical Test
 
 ### 1: Algoritma Pengelompokan Anagram
